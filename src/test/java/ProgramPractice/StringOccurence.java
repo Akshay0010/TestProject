@@ -28,7 +28,7 @@ public class StringOccurence {
 	
 	for(Entry<Character, Integer> e: map.entrySet())
 	{
-		System.out.println(e.getKey()+"="+e.getValue());
+		System.out.println(e.getKey()+"==="+e.getValue());
 	}
 
 	}
